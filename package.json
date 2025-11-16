@@ -1,0 +1,41 @@
+{
+  "name": "portfolio-moderno",
+  "version": "1.0.0",
+  "description": "Portfolio profissional com animações GSAP complexas e design moderno",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server --port=3000 --open=/index.html",
+    "dev": "live-server --port=3000 --open=/index.html --watch=.",
+    "build": "echo 'Build process - minify CSS and JS'",
+    "deploy": "echo 'Deploy to production'"
+  },
+  "keywords": [
+    "portfolio",
+    "gsap",
+    "animations",
+    "modern",
+    "responsive",
+    "web-development"
+  ],
+  "author": "Desenvolvedor Full Stack",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "dependencies": {
+    "gsap": "^3.12.2"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seu-usuario/portfolio-moderno.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seu-usuario/portfolio-moderno/issues"
+  },
+  "homepage": "https://seu-usuario.github.io/portfolio-moderno"
+}
