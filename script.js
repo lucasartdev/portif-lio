@@ -693,4 +693,3 @@ window.portfolioAnimations = {
     setupInteractiveElements
 };
 
-console.log('🚀 Portfolio carregado com sucesso! Desenvolvido com GSAP e muito amor.');
