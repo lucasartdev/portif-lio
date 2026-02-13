@@ -1,7 +1,7 @@
 {
-  "name": "portfolio-moderno",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Portfolio profissional com animações GSAP complexas e design moderno",
+  "description": "Portfolio",
   "main": "index.html",
   "scripts": {
     "start": "live-server --port=3000 --open=/index.html",
